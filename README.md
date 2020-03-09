@@ -1,3 +1,9 @@
+# FORK AT YOUR OWN RISK
+# Installing
+### The Easy Way
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 [![](https://github.com/keselekpermen69/userbutt/workflows/BugChecker/badge.svg)](https://github.com/keselekpermen69/userbutt/actions?query=workflow%3ABugChecker)
 <h1 align="center">Project UserButt</h1>
 <h3 align="center">A modular Telegram userbot running on Python 3.8+ with an sqlalchemy database.</h3>
